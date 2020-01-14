@@ -1,2 +1,5 @@
-# minor2020-iadN
-Minor "Introduction to Data Analysis" at HSE
+# minor2020-iad4
+
+Страница курса:
+
+wiki.cs.hse.ru/Майнор_Интеллектуальный_анализ_данных/Введение_в_анализ_данных/ИАД-4-2020
